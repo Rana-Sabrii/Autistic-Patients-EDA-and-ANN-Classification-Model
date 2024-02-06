@@ -39,10 +39,10 @@
  
 # Model Architecture
 
-- ANN sequential model with input layers of 10 neurons and activation function = 'relu' ,one hidden layer of 8 neurons and activation function = 'relu' and output layer of 1 neuron with activation function ='sigmoid'
+- ANN sequential model with input layers of 10 neurons and activation function = **'relu'** ,one hidden layer of 8 neurons and activation function = **'relu'** and output layer of 1 neuron with activation function = **'sigmoid'**
 - Optimizer used 'Adam'
-- Loss Function used 'binary_crossentropy'
+- Loss Function used **'binary_crossentropy'**
 
 # Evaluation
 
-- Metrics used to evaluate the model performance 'accuracy'
+- Metrics used to evaluate the model performance **'accuracy'**
